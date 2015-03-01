@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conditions>
+
+<var>
+<name>p0</name>
+<value>2</value>
+<value>4</value>
+<value>6</value>
+</var>
+
+<var>
+<name>p1</name>
+<value>0</value>
+<value>1</value>
+<value>3</value>
+</var>
+
+<var>
+<name>p2</name>
+<value>21</value>
+</var>
+
+</conditions>
